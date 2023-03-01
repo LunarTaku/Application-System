@@ -17,7 +17,7 @@ A simple application system made with discord.js v14 and nodejs! This system is 
 2. Place the files in `Schemas` from this repo into your folder that you crated.
 3. Place the files in `Events` in your events folder.
 4. Place the files in `Commands` in your commands folder.
-5. Make sure you have mongoDB working in your project if not, follow the instuctions below.
+5. Make sure you have mongoDB working in your project if not, follow the instructions below.
 
 ## How to add MONGODB:
 Follow [THIS](https://www.youtube.com/watch?v=BEkyfqlbVRw) video below from **lyxcode** to connect mongoDB to your bot!
